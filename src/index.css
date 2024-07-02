@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Fira Sans Condensed";
+}
+
+body {
+  min-height: 100vh;
+  width: 100vw;
+  color: #FFF;
+  background-image: linear-gradient(to top, #2c3e50, #4ca1af);
+}
